@@ -163,6 +163,26 @@ a.fa.fa-angle-down:hover {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+
+
+
+
+#marketing-section {
+	padding: 80px 0;
+	background-color: #eee;
+}
+#marketing-section i {
+	float: left;
+	display: block;
+	margin-right: 15px;
+	color: #D2527F;
+	font-size: 24px;
+}
+#marketing-section p {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
 /* Team Section */
 #team-section {
 	padding: 80px 0;
@@ -230,7 +250,6 @@ img.img-circle.team-img {
 /* Services Section */
 #services-section {
 	padding: 80px 0;
-	background-color: #eee;
 	background: url(../img/header-bg.jpg) no-repeat bottom center fixed;
 
 }
